@@ -10,11 +10,11 @@ safe: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 寂寞先生
+title : 雷神
 tagline: Site Tagline
 author :
-  name : 陈佳伟
-  email : blah@email.test
+  name : Rick Zhang
+  email : zhang@email.test
   github : username
   twitter : username
   feedburner : feedname
